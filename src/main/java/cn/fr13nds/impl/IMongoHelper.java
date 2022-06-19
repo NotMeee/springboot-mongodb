@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * @Author: buckler
  * @Date: 2022/6/19 12:15
- * @Describe:
+ * @Describe: MongoTemplate 通用接口 已完成基本CURD操作
  */
 public interface IMongoHelper<T> {
 
